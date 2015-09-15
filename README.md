@@ -4,9 +4,11 @@
 
 
 
-##クラスアドバンスメントデータJSONファイルフォーマット
+##データ
 
-###サンプル
+###クラスアドバンスメントデータJSONファイルフォーマット
+
+####サンプル
 
 ```
 {
@@ -61,7 +63,7 @@
 }
 ```
 
-###フォーマットの解説
+####フォーマットの解説
 
 * name	職業名 string
 * boards ボード情報を格納したオブジェクトの配列
@@ -74,7 +76,18 @@
 	* description 説明。
 	* tiles そのマスが配置されている位置と消費AdPointを格納したオブジェクトの配列
 
-###Wizardry Online について
+##THANKS
+
+###データ校正
+* [@renkonq](https://twitter.com/renkonq)
+* [@Sancho_dayo](https://twitter.com/Sancho_dayo)
+* [@wasa_san](https://twitter.com/wasa_san)
+
+###データ作成
+* FIG
+  * [@chil0423](https://twitter.com/chil0423)
+
+##Wizardry Online について
 
 [Wizardry Online](http://liberal.wizardry-online.jp/)
 
