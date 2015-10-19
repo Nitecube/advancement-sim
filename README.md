@@ -79,6 +79,7 @@
 * [@renkonq](https://twitter.com/renkonq)
 * [@Sancho_dayo](https://twitter.com/Sancho_dayo)
 * [@wasa_san](https://twitter.com/wasa_san)
+* [@silverholly244](https://twitter.com/silverholly244)
 
 ###データ作成
 * FIG
