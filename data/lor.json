@@ -2,7 +2,7 @@
 	"boards": [
 		{
 			"name": "スタンダード",
-			"capacity": 70000,
+			"capacity": 50000,
 			"skills": [
 				{
 					"type": "status",
